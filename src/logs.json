@@ -1,0 +1,17 @@
+[
+  {
+    "doc_id": 0,
+    "logContent": "r",
+    "logTime": "12:00AM"
+  },
+  {
+    "doc_id": 1,
+    "logContent": "w",
+    "logTime": "12:00AM"
+  },
+  {
+    "doc_id": 2,
+    "logContent": "d",
+    "logTime": "12:00AM"
+  }
+]
